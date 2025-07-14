@@ -2,7 +2,6 @@ organization,followers,following,public_repos,site_url,location,email,is_verifie
 synopsys-sig,65,0,27,https://www.synopsys.com/,,,False,Organization,27,0,190,115,147,"Go, HTML, Java, JavaScript, PowerShell, Python, Ruby, Shell, Smarty, TypeScript"
 spgi-ci,9,0,2,,,ci.support@spglobal.com,False,Organization,2,0,7,11,2,Python
 underarmour,66,0,9,,,ops-service@underarmour.com,False,Organization,9,0,1,0,6,"Go, Java, Objective-C, Python, SCSS, Swift"
-apache,18730,0,2798,https://www.apache.org/,,,True,Organization,2798,0,1230226,520279,86765,"ActionScript, ApacheConf, Assembly, C, C#, C++, CSS, CoffeeScript, Dockerfile, Erlang, Euphoria, FreeMarker, Go, Groovy, HCL, HTML, Handlebars, Isabelle, Java, JavaScript, Jinja, Julia, Jupyter Notebook, Kotlin, Less, Lua, MDX, Makefile, Mermaid, Mustache, Objective-C, Objective-C++, PHP, Perl, PowerShell, Puppet, Python, Ruby, Rust, SCSS, Scala, Shell, Smarty, Starlark, StringTemplate, Svelte, Swift, Tcl, Thrift, TypeScript, Vue, XSLT"
 skyworksinc,5,0,37,https://skyworksinc.github.io/,United States of America,,False,Organization,37,0,4,7,11,"Common Lisp, JavaScript, Jupyter Notebook, Python, Shell"
 iheartmedia,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
 RepublicServicesRepository,158,0,17,http://www.republicservices.com/,,,False,Organization,17,0,2,3,7,"C#, JavaScript, Shell, TypeScript"
