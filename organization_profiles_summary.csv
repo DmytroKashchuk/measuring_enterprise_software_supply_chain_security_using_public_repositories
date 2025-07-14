@@ -1,0 +1,221 @@
+organization,followers,following,public_repos,site_url,location,email,is_verified,type,total_repos,total_projects,total_stars,total_forks,total_open_issues,primary_languages
+synopsys-sig,65,0,27,https://www.synopsys.com/,,,False,Organization,27,0,190,115,147,"Go, HTML, Java, JavaScript, PowerShell, Python, Ruby, Shell, Smarty, TypeScript"
+spgi-ci,9,0,2,,,ci.support@spglobal.com,False,Organization,2,0,7,11,2,Python
+underarmour,66,0,9,,,ops-service@underarmour.com,False,Organization,9,0,1,0,6,"Go, Java, Objective-C, Python, SCSS, Swift"
+apache,18730,0,2798,https://www.apache.org/,,,True,Organization,2798,0,1230226,520279,86765,"ActionScript, ApacheConf, Assembly, C, C#, C++, CSS, CoffeeScript, Dockerfile, Erlang, Euphoria, FreeMarker, Go, Groovy, HCL, HTML, Handlebars, Isabelle, Java, JavaScript, Jinja, Julia, Jupyter Notebook, Kotlin, Less, Lua, MDX, Makefile, Mermaid, Mustache, Objective-C, Objective-C++, PHP, Perl, PowerShell, Puppet, Python, Ruby, Rust, SCSS, Scala, Shell, Smarty, Starlark, StringTemplate, Svelte, Swift, Tcl, Thrift, TypeScript, Vue, XSLT"
+skyworksinc,5,0,37,https://skyworksinc.github.io/,United States of America,,False,Organization,37,0,4,7,11,"Common Lisp, JavaScript, Jupyter Notebook, Python, Shell"
+iheartmedia,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+RepublicServicesRepository,158,0,17,http://www.republicservices.com/,,,False,Organization,17,0,2,3,7,"C#, JavaScript, Shell, TypeScript"
+averydennison,92,0,0,,United States of America,,False,Organization,0,0,0,0,0,N/A
+ticketmaster,41,0,107,http://www.ticketmaster.com/,,,False,Organization,107,0,697,219,195,"C, C#, Dockerfile, Go, HCL, HTML, Java, JavaScript, Kotlin, Objective-C, Perl, PowerShell, Python, Ruby, Rust, Shell, Starlark, Swift, TypeScript"
+starbucks,16,0,0,www.starbucks.com,Seattle,,False,Organization,0,0,0,0,0,N/A
+AdvanceAutoParts,2,0,1,,,,False,Organization,1,0,4,0,4,Java
+warnerbros,18,0,9,https://www.warnerbros.com,,,True,Organization,9,0,9,7,100,"Dockerfile, JavaScript, R, TypeScript"
+apollographql,1344,0,208,https://apollographql.com,"San Francisco, CA",,False,Organization,208,0,79329,19390,5562,"C#, CSS, Dockerfile, Go, HCL, Java, JavaScript, Kotlin, MDX, Objective-C, PowerShell, Python, Reason, Rust, SCSS, Scala, Shell, Smarty, Swift, TypeScript"
+jpmorganchase,2399,0,72,https://www.jpmorganchase.com,,open_source@jpmorgan.com,False,Organization,72,0,12079,2467,799,"C++, Go, HTML, Java, JavaScript, Jupyter Notebook, Python, R, TypeScript"
+ch-robinson,4,0,3,https://www.chrobinson.com/,,,True,Organization,3,0,169,61,23,"C#, Go, SCSS"
+OxyHQ,9,0,14,https://oxy.so/,,hello@oxy.so,True,Organization,14,0,7,2,83,TypeScript
+BestBuy,11,0,1,http://www.bestbuy.com,"Richfield, MN",developer@bestbuy.com,False,Organization,1,0,263,105,14,JavaScript
+CMEGroup,38,0,6,www.cmegroup.com,"Chicago, IL",,False,Organization,6,0,114,38,8,"Java, Jupyter Notebook, Python"
+Autodesk,831,0,82,https://opensource.autodesk.com/,"San Francisco, CA",wongwautodesk,False,Organization,82,0,7811,1791,1626,"ApacheConf, C#, C++, CSS, Go, HTML, Java, JavaScript, Kotlin, Mathematica, Objective-C, Python, Shell, Swift, TypeScript"
+AlaskaAirlines,55,0,85,http://www.alaskaair.com/,"Seattle, WA",,False,Organization,85,0,162,150,666,"Go, HCL, HTML, JavaScript, Ruby, SCSS, Shell, Svelte, Swift, TypeScript, Vue"
+paypal,1559,0,160,https://www.paypal.com/,"San Jose, CA",,False,Organization,160,0,23798,7716,1175,"C#, C++, CSS, Clojure, ColdFusion, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, Ruby, Scala, Shell, Swift, TypeScript, Visual Basic"
+capitalone,351,0,47,https://www.capitalone.com/tech/open-source/,"McLean, VA",opensource@capitalone.com,False,Organization,47,0,4947,1336,445,"CSS, Go, Java, JavaScript, Jupyter Notebook, Objective-C, PHP, Python, R, Ruby, Shell, TeX, TypeScript"
+amzn,2076,0,161,https://developer.amazon.com/,,,False,Organization,161,0,14739,6132,862,"C, C#, C++, CSS, Go, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Mustache, Objective-C, PHP, PowerShell, Python, Ruby, Scala, Smarty, Swift, TypeScript, Zeek"
+cerner,128,0,68,http://engineering.cerner.com/,,,False,Organization,68,0,1627,5586,540,"Dockerfile, Groovy, HTML, Java, JavaScript, Jupyter Notebook, Python, Ruby, TypeScript"
+intel,4471,0,1315,,,webadmin@linux.intel.com,False,Organization,1315,0,112554,30973,13285,"Assembly, BitBake, C, C#, C++, CMake, CSS, Dart, Dockerfile, Go, HCL, HTML, Haskell, Java, JavaScript, Jinja, Jupyter Notebook, LLVM, Logos, M4, MATLAB, MLIR, Makefile, Mustache, NASL, Objective-C, Open Policy Agent, OpenSCAD, PHP, Perl, Perl6, Puppet, Python, Roff, Rust, SCSS, Shell, Singularity, SystemVerilog, Tcl, TypeScript, Vala, Verilog, Vue"
+apple,30824,0,328,https://apple.com,"Cupertino, CA",,True,Organization,328,0,238617,21106,5287,"Assembly, C, C#, C++, Go, Groovy, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, LLVM, Lua, Mathematica, Pkl, Python, R, Ruby, Shell, Starlark, Svelte, Swift, TypeScript"
+honeywell,4,0,0,,,,False,Organization,0,0,0,0,0,N/A
+TechData,0,0,17,,,,False,Organization,17,0,7,13,7,"C#, Java, JavaScript, PHP, Ruby"
+vfc,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+amd,1263,0,84,http://www.amd.com,,dl.DevSecOps-Github-Admin@amd.com,True,Organization,84,0,3934,880,318,"Assembly, C, C#, C++, CMake, Dockerfile, Fortran, Go, HTML, JavaScript, Python, Shell"
+HenrySchein-C,64,0,0,,,ABID.RANA@HENRYSCHEIN.COM,True,Organization,0,0,0,0,0,N/A
+GoodSamEnterprises,70,0,0,http://www.campingworld.com,United States of America,,False,Organization,0,0,0,0,0,N/A
+lowes,49,0,10,https://www.lowes.com,"Charlotte, North Carolina",,False,Organization,10,0,45,25,25,"Java, Jupyter Notebook, Kotlin, Python, TypeScript"
+SironaMedical,12,0,13,,,,False,Organization,13,0,4,7,1,"C++, Go, Jupyter Notebook, Python"
+boozallen,94,0,40,https://boozallen.com/,"McLean, VA",,False,Organization,40,0,799,554,150,"Apex, Dockerfile, Groovy, HCL, Java, JavaScript, Modula-2, Python, Ruby, Shell, Smarty, TypeScript"
+olin,2,0,71,,,,False,Organization,71,0,94,155,123,"C, C#, CSS, CoffeeScript, HTML, Java, JavaScript, Makefile, Objective-C, PHP, Python, Shell"
+SinclairBroadcastGroup,0,0,1,sbgtv.com,,,False,Organization,1,0,1,0,0,JavaScript
+Illumina,286,0,56,http://www.illumina.com,,opensource@illumina.com,False,Organization,56,0,3980,1181,943,"C#, C++, HTML, MDX, Python, R, Shell"
+PerkInelMer,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+TDAmeritrade,69,0,5,,"Omaha, NE",opensource@tdameritrade.com,True,Organization,5,0,25,9,37,"HCL, Java, JavaScript, TypeScript"
+qualcomm,245,0,20,https://qualcomm.com/developer,,,False,Organization,20,0,264,92,117,"C, C++, Jupyter Notebook, Python, Rust, Shell, Slang"
+Keysight,97,0,58,https://www.keysight.com,"Santa Rosa, California",pdl-public-github-repos@keysight.com,False,Organization,58,0,1107,251,36,"C, C#, CSS, Go, HCL, HTML, Java, JavaScript, Julia, PowerShell, Python, Shell, TypeScript, Verilog"
+newscorp-ghfb,280,0,78,,,,False,Organization,78,0,142,45,89,"C, CSS, Go, HTML, Java, JavaScript, PHP, Python, R, Ruby, SCSS, Scala, Swift, TypeScript"
+Autoliv-Research,1,0,2,https://www.autoliv.com,,,False,Organization,2,0,8,0,3,C++
+Workday,134,0,42,http://workday.github.io/,"Pleasanton, California",,False,Organization,42,0,894,537,319,"C, C++, CSS, Dockerfile, Java, JavaScript, Kotlin, Python, Ruby, Scala, Swift, TypeScript"
+dominos-pizza,109,0,0,https://www.dominos.com,United States of America,github@dominos.com,True,Organization,0,0,0,0,0,N/A
+JABIL,1,0,7,,,,False,Organization,7,0,5,2,0,"C#, JavaScript, Jupyter Notebook, TSQL"
+AutoZone,3,0,0,https://www.autozone.com,"Memphis, TN",it-community@autozone.com,False,Organization,0,0,0,0,0,N/A
+Agilent,11,0,8,,,,False,Organization,8,0,38,4,10,"C#, Python, Rust"
+western-union,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+crowncastle,5,0,0,,,,False,Organization,0,0,0,0,0,N/A
+PitneyBowes,5,0,25,http://developer.pitneybowes.com,,,False,Organization,25,0,23,54,35,"ASP.NET, C#, Go, Java, JavaScript, Jupyter Notebook, Objective-C, PHP, Python, Scala, Shell, TypeScript"
+CognizantOpenSource,40,0,34,,,,False,Organization,34,0,70,73,107,"C#, HTML, Java, JavaScript, TypeScript"
+bookingcom,175,0,94,www.booking.com,Amsterdam - NL,,False,Organization,94,0,1700,254,188,"C, C#, C++, Dockerfile, Go, Java, JavaScript, Jupyter Notebook, Kotlin, PHP, Perl, Python, Scala, Smarty, Starlark, Swift, TypeScript"
+idexx-labs,67,0,1,http://www.idexx.com,"One IDEXX Drive, Westbrook, Maine 04092",,True,Organization,1,0,0,0,0,N/A
+Publix,5,0,0,www.publix.com,"Lakeland, FL",,False,Organization,0,0,0,0,0,N/A
+TexasInstruments,702,0,130,https://www.ti.com/,,,True,Organization,130,0,1945,703,289,"Batchfile, BitBake, C, C++, CSS, Dart, Dockerfile, HTML, JavaScript, MATLAB, Makefile, PHP, Python, QML, Roff, Rust, Shell, TypeScript"
+ExpediaGroup,170,0,143,https://opensource.expediagroup.com/,"Seattle, WA",oss@expediagroup.com,False,Organization,143,0,6431,1626,1015,"Clojure, CoffeeScript, Dockerfile, Go, Groovy, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Mustache, Python, Rust, Scala, Shell, Swift, TypeScript"
+Norfolk-Southern,153,0,0,www.nscorp.com,"Atlanta, GA",,False,Organization,0,0,0,0,0,N/A
+MotorolaSolutions,27,0,11,http://www.motorolasolutions.com,,,False,Organization,11,0,8,2,19,"C++, Go, HTML, Java, Kotlin, Python, SCSS, Shell, TypeScript"
+ActivisionBlizzard,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+salesforce,2946,0,403,https://opensource.salesforce.com,United States of America,osscore@salesforce.com,True,Organization,403,0,86813,13198,5127,"Apex, C, C#, C++, CSS, Go, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, PHP, PowerShell, Python, Roff, Ruby, Rust, Scala, Shell, Starlark, Svelte, TypeScript, Zeek"
+Cadence,23,0,0,https://www.cadence.com,,github_enterprise_admin@cadence.com,False,Organization,0,0,0,0,0,N/A
+jetblueairways,70,0,0,,,,False,Organization,0,0,0,0,0,N/A
+ResMedOSS,6,0,12,https://www.resmed.com,,,False,Organization,12,0,0,2,0,TypeScript
+visa,260,0,18,https://developer.visa.com,"San Francisco, CA",developer@visa.com,False,Organization,18,0,261,89,9,"C++, Dart, Go, JavaScript, Ruby, Rust, SCSS, Swift, TypeScript"
+xpologistics,91,0,14,https://rxo.com,,,False,Organization,14,0,2,2,1,"C#, HTML, JavaScript, TSQL, TypeScript"
+Nasdaq,141,0,21,http://www.nasdaq.com/,,,False,Organization,21,0,965,221,116,"C#, Go, Groovy, HTML, Java, JavaScript, Python, R, Ruby"
+LumenTechnologies,3,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Amgen,7,0,2,http://www.amgen.com,,jstratto@amgen.com,False,Organization,2,0,1,1,1,Jupyter Notebook
+dteenergy,47,0,0,http://dteenergy.com,,,False,Organization,0,0,0,0,0,N/A
+GeneralElectric,17,0,41,http://ge.com,,,False,Organization,41,0,303,158,13,"C, C++, Go, HTML, Java, JavaScript, Objective-C, R, Ruby, Scala, Shell"
+discoverfinancial,21,0,6,https://technology.discover.com,,,False,Organization,6,0,13,3,0,"Java, TypeScript"
+MicrochipTech,453,0,389,http://www.microchip.com,"Chandler, AZ",,False,Organization,389,0,1951,1072,200,"BitBake, C, C#, C++, HTML, Java, JavaScript, MATLAB, Makefile, Objective-C, PHP, Python, SWIG, Scala, Shell, TypeScript"
+CardinalHealth,513,0,0,,"Dublin, OH",,False,Organization,0,0,0,0,0,N/A
+oracle,4578,0,294,https://developer.oracle.com/open-source.html,"Austin, TX",opensource_ww_grp@oracle.com,False,Organization,294,0,68915,19539,4926,"Agda, Ballerina, C, C#, C++, CSS, Go, Groovy, HCL, HTML, Hack, Java, JavaScript, Jupyter Notebook, Makefile, Objective-C, PHP, PLSQL, Python, Ruby, Rust, Scala, Shell, Swift, TSQL, TypeScript, Vue, XSLT"
+blackrock,191,0,12,https://blackrock.com,United States of America,opensource@blackrock.com,False,Organization,12,0,251,93,28,"HTML, Java, Python, Rust, Scala"
+CBRE,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Juniper,320,0,289,www.juniper.net,,ldo@juniper.net,False,Organization,289,0,6554,4666,1421,"C, C++, CSS, Dockerfile, Emacs Lisp, Go, HCL, HTML, Java, JavaScript, Jinja, Jupyter Notebook, Makefile, Perl, Puppet, Python, Ruby, Shell, Smarty, TypeScript, Verilog, XSLT"
+xeroxinteractive,6,0,20,https://www.xerox.com,,,False,Organization,20,0,12,1,44,"CSS, HTML, JavaScript, TypeScript"
+PPGIndustries,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Mastercard,424,0,136,https://www.mastercard.com,,,True,Organization,136,0,1969,1003,321,"C, C#, C++, Go, HTML, Java, JavaScript, Kotlin, MDX, Makefile, Objective-C, PHP, Python, Ruby, Scala, Shell, Swift, TypeScript"
+BostonScientific,2,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Mattel,14,0,45,https://www.mattel.com/,"El Segundo, CA",,False,Organization,45,0,4,0,4,"API Blueprint, C, C++, Dart, Go, Java, Python, Ruby, Scala, Swift"
+google,56995,0,2783,https://opensource.google/,United States of America,opensource@google.com,True,Organization,2783,0,1951939,351556,84935,"ABAP, Apex, AppleScript, Bison, C, C#, C++, CMake, CSS, Clojure, Common Lisp, Coq, D, Dart, Dockerfile, Eagle, Elixir, Elm, Emacs Lisp, Erlang, GLSL, Go, Gosu, Groff, Groovy, HCL, HTML, Haskell, Idris, Java, JavaScript, Jsonnet, Jupyter Notebook, KiCad, Kotlin, LLVM, Lean, Lua, M4, MATLAB, Makefile, Matlab, Objective-C, Objective-C++, OpenEdge ABL, OpenSCAD, PHP, Perl, PowerShell, Processing, Protocol Buffer, Puppet, PureBasic, Python, R, Ruby, Rust, SCSS, Scala, Scheme, ShaderLab, Shell, Smarty, Starlark, Svelte, Swift, TSQL, TeX, TypeScript, VBScript, Verilog, Vim Script, Vim script, VimL, Vue, YARA"
+AbbVie,15,0,0,,,,False,Organization,0,0,0,0,0,N/A
+LibertyGlobal,66,0,81,https://developer.libertyglobal.com,Amsterdam,developers@libertyglobal.com,False,Organization,81,0,364,128,97,"BitBake, C, C++, CSS, Dart, Go, HTML, Java, JavaScript, Python, R, Ruby, Smarty"
+analogdevicesinc,1450,0,294,https://www.analog.com,United States of America,opensource@analog.com,True,Organization,294,0,8623,7908,1180,"AGS Script, Assembly, BitBake, C, C#, C++, CMake, CSS, Dart, Groff, HTML, Java, JavaScript, Jupyter Notebook, LabVIEW, MATLAB, Makefile, Matlab, Python, QML, Roff, Rust, Shell, SystemVerilog, Tcl, TypeScript, Verilog, Visual Basic .NET"
+Avnet,67,0,132,http://www.avnet.com/,,,False,Organization,132,0,730,604,83,"Batchfile, BitBake, C, C++, Java, JavaScript, Jupyter Notebook, Makefile, NASL, Objective-C, Python, Shell, Tcl, VHDL"
+verisk,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+twitter,13819,0,101,https://opensource.x.com/,,,False,Organization,101,0,205587,36466,3575,"C, C++, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Python, R, Ruby, Rust, SCSS, Scala, Shell, Smarty, Swift, TypeScript, Vue"
+getbread,63,0,41,http://www.getbread.com,"New York, NY",eng@breadfinance.com,False,Organization,41,0,13,7,36,"C++, Go, HTML, JavaScript, Kotlin, PHP, Python, Shell, Swift, TypeScript"
+labcorp,1,0,13,https://labcorp.com.br,"São Paulo, Brazil",dev@labcorp.com.br,False,Organization,13,0,1,2,8,"CSS, Dart, HTML, JavaScript, Python"
+f5,63,0,5,https://opensource.f5.com/,United States of America,opensource@f5.com,False,Organization,5,0,2545,61,109,"Go, Rust, TypeScript"
+NorthropGrumman,29,0,6,http://www.northropgrumman.com/,,,False,Organization,6,0,9,11,20,"Java, PowerShell"
+WellsFargo,6,0,0,,,,False,Organization,0,0,0,0,0,N/A
+gigya,17,0,41,https://www.sap.com/products/crm/customer-data-management.html,,,False,Organization,41,0,1694,344,199,"C#, HTML, Java, JavaScript, Objective-C, PHP, TypeScript"
+delta,172,0,143,https://delta.nitt.edu/,"Tiruchirappalli, India",delta@nitt.edu,False,Organization,143,0,381,467,344,"C++, CSS, Dart, EJS, Go, HTML, Java, JavaScript, Kotlin, PHP, Python, Rust, Shell, Svelte, TypeScript"
+intuit,453,0,139,https://opensource.intuit.com/,"Mountain View, CA",open-source@intuit.com,False,Organization,139,0,18208,4395,1681,"C#, C++, CSS, Dockerfile, Go, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Objective-C, PHP, Python, R, Ruby, Scala, Shell, Swift, TypeScript"
+libertymutual,22,0,53,https://welcome.libertymutual.com/innovation/information-technology/,"Boston, MA",opensource@libertymutual.com,False,Organization,53,0,83,58,59,"Go, HTML, Java, JavaScript, Kotlin, PowerShell, Python, Ruby, Scheme, TypeScript"
+citrix,187,0,128,https://developer.citrix.com,,developer@citrix.com,True,Organization,128,0,562,350,278,"C#, CSS, CoffeeScript, Go, HCL, HTML, Java, JavaScript, Objective-C, PowerShell, Python, Ruby, Shell, TypeScript"
+rgare,215,0,0,,,,False,Organization,0,0,0,0,0,N/A
+IBM,6401,0,3613,https://www.ibm.com/opensource/,United States of America,awesome@ibm.com,True,Organization,3613,0,104839,46221,13454,"ABAP, Assembly, Awk, Batchfile, Bicep, C, C#, C++, COBOL, CSS, Clojure, CoffeeScript, Coq, Cypher, Dart, Dockerfile, EJS, Elixir, Emacs Lisp, Gherkin, Go, Groovy, HCL, HTML, Haskell, Inform 7, JCL, Java, JavaScript, JetBrains MPS, Jinja, Julia, Jupyter Notebook, Kotlin, Lua, M4, MATLAB, MDX, Macaulay2, Makefile, Mustache, NewLisp, OCaml, PDDL, PHP, PLpgSQL, Perl, PostScript, PowerShell, Prolog, Python, R, REXX, RPGLE, Roff, Ruby, Rust, SAS, SCSS, SQLPL, Scala, Shell, Smarty, Standard ML, Swift, TSQL, TeX, TypeScript, Verilog, Vue, XSLT, YAML, YARA, wdl"
+Citi,184,0,29,https://citi.com,Global,opensource@citi.com,True,Organization,29,0,68,18,40,"Go, HTML, Haskell, Java, JavaScript, Kotlin, Python, TypeScript, Vue"
+akamai,450,0,198,https://techdocs.akamai.com,,,False,Organization,198,0,5350,1883,656,"C, C#, C++, CSS, Common Lisp, Dockerfile, Go, HCL, HTML, Java, JavaScript, Julia, Jupyter Notebook, Makefile, Objective-C, PHP, Perl, PowerShell, Python, Ruby, Rust, Shell, Swift, TeX, TypeScript"
+HPInc,87,0,45,https://hp.io,,hpdevelopers@hp.com,False,Organization,45,0,528,196,267,"C#, C++, Go, HCL, Java, JavaScript, Jupyter Notebook, Kotlin, PHP, PowerShell, Python, Ruby, Shell, TypeScript"
+westerndigitalcorporation,156,0,39,https://www.westerndigital.com/,,,True,Organization,39,0,2992,718,87,"C, C#, C++, Go, Java, JavaScript, OCaml, Python, Rust, Shell, SystemVerilog, Tcl, TeX"
+saic-oss,11,0,15,https://saic.com,"Reston, VA",l_open_source@saic.com,False,Organization,15,0,41,20,13,"HCL, Java, JavaScript, PowerShell, Shell, Smarty"
+AmericanAirlines,46,0,32,https://jobs.aa.com,"Fort Worth, TX",,False,Organization,32,0,147,178,129,"Go, Java, JavaScript, Ruby, Shell, Smarty, TypeScript"
+davita,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+BNYMellon,69,0,4,https://www.bny.com,Global,,False,Organization,4,0,945,278,6,Java
+teslamotors,5086,0,62,http://www.tesla.com/,,,True,Organization,62,0,14194,2776,365,"C, C#, C++, Go, Java, JavaScript, Makefile, Python, RobotFramework, Ruby, Rust, Shell, Smarty, Starlark, Swift, TypeScript"
+block,576,0,56,https://block.xyz,,opensource@block.xyz,True,Organization,56,0,18292,1637,698,"Apex, Astro, Dart, Go, HCL, Kotlin, MDX, Mustache, Python, Ruby, Rust, Shell, Swift, TypeScript"
+Ally-Financial,16,0,10,https://www.ally.com/do-it-right/,,,False,Organization,10,0,19,6,1,"HTML, Java, JavaScript, Python, TypeScript"
+Comcast,170,0,231,https://comcast.github.io,,Comcast_Open_Source_Services@comcast.com,False,Organization,231,0,7698,2494,835,"Brightscript, C, C++, CSS, CoffeeScript, Elixir, Go, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Lua, Makefile, PHP, PowerShell, Python, Ruby, Rust, SCSS, Scala, Shell, Swift, TypeScript"
+aetnahealth,38,0,0,https://health.aetna.com,,,False,Organization,0,0,0,0,0,N/A
+PEPSICO,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+eogresources,68,0,0,,,,False,Organization,0,0,0,0,0,N/A
+MarshMcLennan,5,0,0,https://www.marshmclennan.com/,United States of America,,False,Organization,0,0,0,0,0,N/A
+EcolabCompany,0,0,7,,"Saint Paul, MN",,False,Organization,7,0,8,3,1,"Objective-C, Swift"
+adobe,2598,0,1022,https://adobe.com,"San Jose, CA",,True,Organization,1022,0,79263,23556,10365,"ActionScript, Brightscript, C, C#, C++, CSS, Dart, Elixir, Go, HCL, HTML, Haskell, Java, JavaScript, Jsonnet, Kotlin, Less, Lua, NSIS, Objective-C, PHP, PostScript, Puppet, Python, Ruby, Rust, SCSS, Scala, Shell, Starlark, Svelte, Swift, TypeScript"
+NCR-Corporation,19,0,21,,,,False,Organization,21,0,29,27,21,"Go, HTML, Java, JavaScript, Python, Ruby"
+FISGlobal,0,0,1,,,,False,Organization,1,0,0,0,0,N/A
+Nordstrom,20,0,290,http://www.nordstrom.com/,"Seattle, WA",,False,Organization,290,0,943,444,1453,"C++, CSS, CoffeeScript, Dockerfile, Go, Groovy, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, PowerShell, Protocol Buffer, Python, Ruby, Rust, Shell, Smarty, Swift"
+InteractiveBrokers,220,0,1,https://www.interactivebrokers.com,,opensource@interactivebrokers.com,False,Organization,1,0,566,287,0,N/A
+NVIDIA,17590,0,583,https://nvidia.com,"2788 San Tomas Expressway, Santa Clara, CA, 95051",,True,Organization,583,0,336343,59171,18893,"Assembly, BitBake, C, C#, C++, CMake, CSS, Cuda, Cython, Dockerfile, Fortran, GLSL, Go, HCL, HTML, Java, JavaScript, Jinja, Jupyter Notebook, Lua, MLIR, Makefile, Markdown, Meson, OCaml, PowerShell, Python, Roff, Ruby, Rust, Scala, Shell, Tcl, TeX, TypeScript, Vue"
+nortonlifelock,11,0,4,https://www.nortonlifelock.com/,"Tempe, Arizona",DL-GCS-AppSec@nortonlifelock.com,False,Organization,4,0,22,14,6,"C, Go"
+kemperlab,9,0,12,https://www.physics.ncsu.edu/kemperlab/,NC State University,,False,Organization,12,0,30,15,1,"C++, Jupyter Notebook, Python, SCSS, TeX"
+NetApp,221,0,100,https://netapp.com,Worldwide,,True,Organization,100,0,1654,708,405,"C, C#, Go, HCL, HTML, Java, Jinja, Jupyter Notebook, Perl, PowerShell, Puppet, Python, Ruby, Shell, Smarty, TypeScript"
+tiaa-forum-org,3,0,12,,,,False,Organization,12,0,6,2,0,"ColdFusion, HTML, PHP, SCSS"
+cisco,1057,0,84,https://cisco.com,,fluffy@cisco.com,True,Organization,84,0,19995,5419,1018,"BitBake, C, C#, C++, Go, HTML, Haskell, Java, JavaScript, Perl, Python, Ruby, Rust, Scala, Scheme"
+insperity,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+synchrony,3,0,13,,,,False,Organization,13,0,240,30,45,"Emacs Lisp, Haskell, Java, Max, Shell"
+CarMax,9,0,7,http://www.carmax.com,"Richmond, VA",,False,Organization,7,0,20,9,28,"C#, CSS, JavaScript, PowerShell"
+HCA-Healthcare,16,0,3,,,,False,Organization,3,0,159,49,21,"Elixir, Erlang"
+UnitedHealthGroup,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Biogen-Inc,23,0,4,,,,False,Organization,4,0,129,41,70,"Python, R"
+svb,0,0,0,http://www.svb.com/,,,False,Organization,0,0,0,0,0,N/A
+ciena,29,0,29,https://www.ciena.com,,,False,Organization,29,0,96,45,32,"C, C++, Go, Java, JavaScript, Makefile, Python, Shell"
+ServiceNow,748,0,234,https://www.servicenow.com,,,False,Organization,234,0,5943,45891,785,"C++, Cuda, Dockerfile, Go, HTML, Haskell, Java, JavaScript, Jupyter Notebook, Makefile, Objective-C, PureBasic, Python, RobotFramework, Ruby, Rust, Shell, Swift, TypeScript"
+cvs-health,80,0,14,https://www.cvshealth.com,,,False,Organization,14,0,1519,177,44,"Java, JavaScript, Kotlin, Python, Swift"
+microsoft,96983,0,6956,https://opensource.microsoft.com,"Redmond, WA",opensource@microsoft.com,True,Organization,6956,0,3388705,705028,168643,"ABAP, AL, ANTLR, ASL, ASP.NET, Assembly, Batchfile, Bicep, C, C#, C++, CMake, CSS, Circom, Clojure, CodeQL, CoffeeScript, Cool, Cuda, Cypher, Cython, Dafny, Dart, Dockerfile, Elm, F#, F*, GAP, GLSL, Gnuplot, Go, Groovy, HCL, HTML, Handlebars, Haskell, JSON, Java, JavaScript, Jinja, Jsonnet, Julia, Jupyter Notebook, Kotlin, LLVM, Lean, Liquid, Logos, Lua, M4, MATLAB, MDX, MLIR, Makefile, Markdown, Mathematica, Matlab, Mustache, NSIS, OCaml, Objective-C, Objective-C++, Open Policy Agent, PHP, PLpgSQL, Pawn, Perl, PostScript, PowerShell, Pug, Python, Q#, R, RPM Spec, Rich Text Format, Roff, Ruby, Rust, SCSS, SWIG, Sage, Scala, ShaderLab, Shell, Slash, Smarty, Solidity, Swift, SystemVerilog, TLA, TSQL, Tcl, TeX, Thrift, TypeScript, TypeSpec, VBScript, Verilog, Vue, WDL, XQuery, q, wdl"
+MGMResorts,151,0,0,,,,False,Organization,0,0,0,0,0,N/A
+RockwellAutomation,104,0,2,http://www.rockwellautomation.com/,"Milwaukee, WI",,True,Organization,2,0,40,14,0,C#
+EnergyPlus,4,0,19,http://www.nrg.com/,Philadelphia,,False,Organization,19,0,5,3,32,"C#, CSS, JavaScript, Python, Ruby, Shell"
+cummins,2,0,0,www.cummins.com,United States of America,,False,Organization,0,0,0,0,0,N/A
+BorgWarner-MAI,0,0,1,,,,False,Organization,1,0,1,0,0,Java
+walmart,39,0,0,https://github.com/walmartlabs,Distributed,opensource@walmartlabs.com,False,Organization,0,0,0,0,0,N/A
+EdisonInternational,224,0,2,https://www.edison.com,"Rosemead, CA",DevopsSupport@sce.com,False,Organization,2,0,0,1,1,C#
+paychex,50,0,78,https://paychex.com,"Rochester, NY",open_source@paychex.com,True,Organization,78,0,124,75,87,"Clojure, Go, Groovy, HCL, Java, JavaScript, PHP, Puppet, Python, Ruby, Rust, Shell, TypeScript"
+dickssportinggoods,31,0,3,https://dickssportinggoods.com,,,True,Organization,3,0,0,1,0,Python
+Adtelligent,2,0,10,https://adtelligent.com,"NY, USA",info@adtelligent.com,False,Organization,10,0,1,0,0,"Go, HTML, JavaScript"
+MaximIntegratedMicros,10,0,0,https://www.maximintegrated.com/en/products/digital/microcontrollers.html,,,False,Organization,0,0,0,0,0,N/A
+gap-inc,0,0,1,,,,False,Organization,1,0,0,2,0,Java
+conagra,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Nike-Inc,238,0,76,http://engineering.nike.com,"Beaverton, OR",,False,Organization,76,0,6480,1189,528,"CSS, Go, Groovy, HTML, Haskell, Java, JavaScript, Python, Ruby, Rust, Scala, Swift, TypeScript, XSLT"
+teledyne,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+equinix,83,0,62,https://equinix.com,"Redwood City, CA",,True,Organization,62,0,429,470,452,"Go, HCL, HTML, Java, JavaScript, Mustache, Python, Ruby, Shell"
+Xilinx,2465,0,425,www.amd.com,"San Jose, CA",,True,Organization,425,0,29100,14405,3152,"Assembly, BitBake, C, C++, CMake, CSS, Go, Groovy, HTML, Java, JavaScript, Jupyter Notebook, LLVM, MLIR, Makefile, Perl, Python, QML, ReScript, Rust, Shell, SystemVerilog, Tcl, TeX, TypeScript, VHDL, Verilog"
+WMI,1,0,0,www.warnermusic.com,"London, UK",,False,Organization,0,0,0,0,0,N/A
+att,162,0,101,http://www.att.com,,,False,Organization,101,0,1886,1083,862,"C, C++, CSS, Go, HTML, Java, JavaScript, Jupyter Notebook, Python, R, Ruby, Shell, TypeScript"
+PrincipalFinancialGroup,12,0,0,www.principal.com/about-us,Global,,False,Organization,0,0,0,0,0,N/A
+InternationalPaper,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+groupon,13,0,87,https://engineering.groupon.com/,"Chicago, IL, USA",engineering@groupon.com,False,Organization,87,0,5786,1216,576,"C, C++, CSS, CoffeeScript, Java, JavaScript, Kotlin, Perl, Python, Ruby, Scala, Shell, TypeScript"
+mckesson,631,0,0,,,,False,Organization,0,0,0,0,0,N/A
+ElevanceHealth,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+ArrowElectronics,27,0,57,http://www.arrow.com/,"Colorado, USA",,False,Organization,57,0,125,68,28,"BitBake, C, C++, HTML, JavaScript, Python, Shell, Tcl, Verilog"
+eBay,539,0,210,https://opensource.ebay.com,,opensource@ebay.com,False,Organization,210,0,20276,4628,1400,"C, C#, C++, CSS, D, Dart, Go, Groovy, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Lua, Marko, Objective-C, PHP, Perl, Python, Scala, Shell, Starlark, Swift, TypeScript, Vue"
+dell,714,0,163,https://developer.dell.com/,"One Dell Way, Round Rock, TX  USA",ospo@dell.com,False,Organization,163,0,4664,2010,762,"C, C#, C++, CSS, Go, HCL, HTML, JavaScript, Jupyter Notebook, Makefile, Open Policy Agent, Perl, PowerShell, Python, Ruby, Shell, SourcePawn, TypeScript, YAML"
+Iron-Mountain-Software,1,0,36,,,ironmountainexplorations@gmail.com,False,Organization,36,0,4,0,0,"C#, ShaderLab"
+springleaf,28,0,10,,,,False,Organization,10,0,3,56,10,"HTML, Ruby"
+skechers,17,0,0,https://www.skechers.com,"Manhattan Beach, CA",,True,Organization,0,0,0,0,0,N/A
+VarianMedicalSystems,5,0,0,https://www.varian.com,Germany,,False,Organization,0,0,0,0,0,N/A
+pfizer-opensource,107,0,45,,,,False,Organization,45,0,309,119,34,"CSS, HTML, Java, JavaScript, Julia, Jupyter Notebook, MATLAB, Nextflow, Perl, Python, R"
+Equifax-Public,20,0,1,https://www.equifax.com,,,True,Organization,1,0,38,15,8,SCSS
+supermicro,18,0,9,https://www.supermicro.com,United States of America,,False,Organization,9,0,26,5,0,"Makefile, Python, Shell"
+EliLillyCo,1882,0,11,www.lilly.com,"Indianapolis, US",EDAT_Operations@lists.lilly.com,False,Organization,11,0,192,62,46,"C++, Groovy, Java, JavaScript, PHP, Python, R"
+Voya-Financial,20,0,3,,,,False,Organization,3,0,0,0,0,"JavaScript, PHP"
+facebook,30914,0,149,https://opensource.fb.com,"Menlo Park, California",,True,Organization,149,0,1032584,188349,17365,"C, C#, C++, CSS, Go, HTML, Haskell, Java, JavaScript, Jupyter Notebook, Kotlin, OCaml, Objective-C, Objective-C++, PHP, Python, Ruby, Rust, Starlark, Swift, TypeScript"
+ChevronETC,59,0,22,,,,False,Organization,22,0,134,38,87,"C++, HTML, Julia, Jupyter Notebook"
+godaddy,187,0,195,https://godaddy.com/engineering/,,oss@godaddy.com,True,Organization,195,0,7357,1529,1485,"C#, C++, CSS, Dockerfile, EJS, Go, HTML, Java, JavaScript, Kotlin, Objective-C, PHP, Perl, Python, Ruby, Rust, Shell, TypeScript"
+PACCAR,4,0,4,,,brian.cohen@paccar.com,False,Organization,4,0,3,2,0,"Python, R"
+BlackstoneGroup,4,0,3,https://www.blackstone.com,,,False,Organization,3,0,0,0,0,"C#, Ruby"
+hii-inc,0,0,0,,,,False,Organization,0,0,0,0,0,N/A
+troweprice,47,0,5,,,,False,Organization,5,0,4,1,0,"Java, Python"
+usbank,14,0,4,,"Minneapolis, MN",,False,Organization,4,0,5,1,2,N/A
+The-Coca-Cola-Company,502,0,47,https://www.coca-cola.com/,"Atlanta, Georgia, United States of America",,False,Organization,47,0,1,5,0,JavaScript
+HewlettPackardEnterprise,0,0,0,https://hpe.com/,,,False,Organization,0,0,0,0,0,N/A
+Verizon,178,0,38,,United States of America,opensource@verizon.com,False,Organization,38,0,1716,394,51,"C, C#, C++, Clojure, Go, HTML, Java, JavaScript, Python, Scala"
+Netflix,8378,0,232,http://netflix.github.io/,"Los Gatos, California",netflixoss@netflix.com,False,Organization,232,0,237038,36685,4666,"C, C#, C++, Clojure, D, Dockerfile, Go, Groovy, HCL, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Makefile, Python, R, Ruby, Rust, Scala, Shell, Smarty, TypeScript"
+wayfair,53,0,24,https://www.aboutwayfair.com/careers/tech-blog,"Boston, MA // Berlin, Germany",,False,Organization,24,0,1421,325,137,"C, C++, Go, JavaScript, Jupyter Notebook, Kotlin, PHP, PowerShell, Python, Shell, Swift, TypeScript"
+AMETEKTCI,5,0,5,https://www.ametekstc.com/,United States of America,ametektci.software@ametek.com,False,Organization,5,0,0,1,2,"C, C#, JavaScript"
+Gartner-Lab,5,0,13,,,,False,Organization,13,0,19,4,0,"HTML, Jupyter Notebook, MATLAB, Python, R"
+homedepot,58,0,78,https://homedepot.com,"Atlanta, GA",,False,Organization,78,0,269,214,180,"C++, CSS, CoffeeScript, Dockerfile, Go, Groovy, HCL, Java, JavaScript, PowerShell, Python, Ruby, Shell, TypeScript"
+dxc-technology,92,0,40,https://dxc.com,United States of America,opensource@dxc.com,True,Organization,40,0,281,293,262,"CSS, Dart, Go, HTML, Java, JavaScript, Jupyter Notebook, Kotlin, Python, Ruby, SCSS, Shell, TypeScript"
+globalpayments,60,0,33,https://developer.heartlandpaymentsystems.com/,,entapp_devportal@e-hps.com,False,Organization,33,0,267,395,319,"C#, CSS, Go, Java, JavaScript, Kotlin, Objective-C, PHP, Python, Ruby, Swift, TypeScript"
+ryder,2,0,0,https://ryder.com,,,False,Organization,0,0,0,0,0,N/A
+BallAerospace,12,0,16,http://www.ballaerospace.com/,"Broomfield, CO",,False,Organization,16,0,405,157,155,"Batchfile, C++, CSS, Dockerfile, HTML, JavaScript, MATLAB, Python, Ruby, Vue"
+walgreens,13,0,1,www.walgreens.com,United States of America,,False,Organization,1,0,1,0,0,N/A
+IPG,1,0,0,,,,False,Organization,0,0,0,0,0,N/A
+Boeing,161,0,39,,,,False,Organization,39,0,471,131,59,"BitBake, C, C++, CMake, Go, HTML, Python, Starlark, TypeScript"
+americanexpress,404,0,87,https://americanexpress.io,,opensource@aexp.com,False,Organization,87,0,9019,1117,333,"C#, Go, HTML, Java, JavaScript, Kotlin, PHP, Python, Ruby, Shell, Swift, TypeScript"
+morganstanley,411,0,50,,,opensource@morganstanley.com,True,Organization,50,0,3457,802,215,"C, C#, C++, Java, JavaScript, Jupyter Notebook, MDX, Perl, Python, Scala, Shell, TypeScript"
+MarriottLabs,1,0,5,www.marriottlabs.com,Marriott International,,False,Organization,5,0,2,8,6,"HTML, JavaScript, Python"
+goldmansachs,1500,0,69,https://gs.com/opensource,,,False,Organization,69,0,12621,2066,244,"Go, HTML, Java, JavaScript, Jupyter Notebook, Lua, Nix, Python, Scala, Shell, TSQL, TypeScript"
+bankofamerica,22,0,0,https://www.bankofamerica.com,"Charlotte, NC",,False,Organization,0,0,0,0,0,N/A
+insight,3,0,7,,,,False,Organization,7,0,7,1,3,"JavaScript, PHP"
+colpal,214,0,35,,,admin@colpal.com,True,Organization,35,0,24,33,139,"Dockerfile, Go, HCL, Java, JavaScript, Python, Shell, TypeScript"
+olin-electric-motorsports,11,0,33,https://www.olinelectricmotorsports.com/,Olin College of Engineering,,False,Organization,33,0,47,322,58,"C, C++, CMake, CSS, Gnuplot, HTML, Makefile, Python, Shell, TeX"
+guess-js,14,0,4,,,,False,Organization,4,0,7189,211,55,"JavaScript, TypeScript"
+AmphenolAdvancedSensors,4,0,4,www.amphenol-sensors.com,Global,,False,Organization,4,0,26,19,6,C++
+moodysanalytics,632,0,11,www.moodysanalytics.com,Moody's Analytics,,False,Organization,11,0,23,13,48,"C#, CSS, JavaScript, Python, R, SCSS, TypeScript"
+Zebra,165,0,0,http://developer.zebra.com,,,False,Organization,0,0,0,0,0,N/A
+aemsites,25,0,72,https://www.aem.live,,,False,Organization,72,0,26,77,657,"CSS, HTML, JavaScript, TypeScript"
+EncompassTechnologies,49,0,0,https://www.encompasstech.com,"Fort Collins, Colorado, USA",support@encompasstech.com,True,Organization,0,0,0,0,0,N/A
+officedepot,197,0,0,https://officedepot.com,,noreply@officedepot.com,True,Organization,0,0,0,0,0,N/A
+MetLife,13,0,3,,United States of America,,False,Organization,3,0,0,0,1,N/A
+Unisys,6,0,1,www.unisys.com,Global,,False,Organization,1,0,13,3,1,C#
+Aflac-SCM,122,0,0,aflac.com,"Columbus, GA",aflac.com,True,Organization,0,0,0,0,0,N/A
+Travelers,16,0,2,www.travelers.com,"Hartford, CT",opensource@travelers.com,False,Organization,2,0,0,0,0,"JavaScript, Python"
